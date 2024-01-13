@@ -1,0 +1,2 @@
+# wallpapers
+The CuerdOS wallpapers
